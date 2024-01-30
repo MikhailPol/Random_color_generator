@@ -1,4 +1,4 @@
-Генератор случайного цвета.
+Генератор случайного цвета - https://mikhailpol.github.io/Random_color_generator.
 
 Для генерации нажмите generate.
 
